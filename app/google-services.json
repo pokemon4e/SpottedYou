@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936822651127",
+    "firebase_url": "https://spotted-you.firebaseio.com",
+    "project_id": "spotted-you",
+    "storage_bucket": "spotted-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936822651127:android:de52179f0d55b813",
+        "android_client_info": {
+          "package_name": "eu.milena.spottedyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936822651127-1eqb3e0fuvj2o260m5ga1n7j7mn4dpr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eu.milena.spottedyou",
+            "certificate_hash": "8520a712d62d1d548ce6b7952caa6df810c2e0ff"
+          }
+        },
+        {
+          "client_id": "936822651127-1eqb3e0fuvj2o260m5ga1n7j7mn4dpr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgoI7NuHwj7KYkE3FeE97Gd73JzRtb4dM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936822651127-1eqb3e0fuvj2o260m5ga1n7j7mn4dpr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
